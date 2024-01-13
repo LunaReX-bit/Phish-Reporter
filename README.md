@@ -9,29 +9,31 @@ Outlook plugin to report phishing emails to security team of your organization.
 - Deletes the email once sent
 
 
-Compatabilty
+## Compatabilty
 
 - Windows OS
 
-Requirements to develop/adjust the code
+## Requirements to develop/adjust the code
 
  - Visual Studio 
  - Visual Studio Installer Project Extension
 
-Adjustments
+## Adjustments
 
 - Adjust your security team's email here - ForwardToAbuseAddin/PhishReporterConfig.vb
 - Other adjustments related to button and reporting in the same location
 
+&nbsp;  
+
 Credits - Josh Rickard + Braxtone
 
-Ref - https://github.com/braxtone/PhishReporter-Outlook-Add-In
+Ref https://github.com/braxtone/PhishReporter-Outlook-Add-In
 
 
 &nbsp;
 
 
-Coming up  - 
+## Coming up  - 
 -  How to sign this outlook plugin to enable trust in your organization
 -  Above includes generating certificates as well
 -  Notes/documentation using this code to develop msi/exe file
