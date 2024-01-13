@@ -18,6 +18,21 @@ Requirements to develop/adjust the code
  - Visual Studio 
  - Visual Studio Installer Project Extension
 
+Adjustments
+
+- Adjust your security team's email here - ForwardToAbuseAddin/PhishReporterConfig.vb
+- Other adjustments related to button and reporting in the same location
+
 Credits - Josh Rickard + Braxtone
 
 Ref - https://github.com/braxtone/PhishReporter-Outlook-Add-In
+
+
+&nbsp;
+
+
+Coming up  - 
+-  How to sign this outlook plugin to enable trust in your organization
+-  Above includes generating certificates as well
+-  Notes/documentation using this code to develop msi/exe file
+  
